@@ -1,5 +1,5 @@
 ## Description
-Consumed a rick and morty api from (here)[https://rickandmortyapi.com/] and created a frontend which displays all the characters.
+Consumed a rick and morty api from [here](https://rickandmortyapi.com/) and created a frontend which displays all the characters.
 
 ## Lessons learned from exercise
 - Consuming a backend API using axios in react
@@ -8,4 +8,4 @@ Consumed a rick and morty api from (here)[https://rickandmortyapi.com/] and crea
 - Deploying production ready react app to heroku
 
 ## Heroku link
-https://agile-headland-01373.herokuapp.com/
+[rickandmortycharacters](https://agile-headland-01373.herokuapp.com/)
