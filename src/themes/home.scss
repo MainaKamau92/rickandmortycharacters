@@ -1,0 +1,19 @@
+.row {
+  display: grid;
+  align-items: center;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  grid-gap: 0.5rem;
+}
+
+.card {
+  height: 100%;
+  //width: 10rem;
+}
+
+.list-group-item {
+  font-size: 0.6em;
+}
+
+.page-link {
+  cursor: pointer;
+}
